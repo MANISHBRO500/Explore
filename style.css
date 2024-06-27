@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    font-family: cursive;
+   
+}
+.ssm{
+    margin-left: 1000px;
+    color: #fff;
+    margin-top: 40px;
+    font-size: 20px;
+   font-weight: bold;
+    padding-top: 50px;
+    transition: 3s;
+   text-decoration: none;
+}
+.ssbv{
+    margin-left: 30px;
+    color: #fff;
+    margin-top: 40px;
+    font-size: 20px;
+   position: relative;
+   font-weight: bold;
+    padding-top: 50px;
+    transition: 3s;
+   text-decoration: none;
+}
+.ssmb{
+     margin-left: 30px;
+    color: #fff;
+    margin-top: 40px;
+    font-size: 20px;
+   position: relative;
+   font-weight: bold;
+    padding-top: 50px;
+    transition: 3s;
+   text-decoration: none;
+}
+.ssm:hover{
+   
+    text-decoration: underline red ;
+   padding-top:10px; 
+ 
+}
+.ssbv:hover{
+   
+    text-decoration: underline red;
+    padding-top:10px; 
+ 
+}
+.ssmb:hover{
+   
+    text-decoration: underline red;
+    padding-top:10px; 
+ 
+}
+.sp{
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.spp{
+    margin-left: 250px;
+    margin-bottom: 30px;
+    
+}
+.spb{
+    border: solid black 2px;
+    margin-left: 290px;
+    padding-right: 30px;
+    background-color:black;
+    color:white;
+    transition: 5s;
+    border-radius: 20px ;
+    height: 30px;
+    width: 100px;
+}
+.spb:hover{
+    background-color: transparent;
+    text-align: center;
+    width: 250px;
+}
+.smp{
+    text-align: center;
+    width: 80px;
+    background-color: white;
+    border: solid black 2px;
+    transition: 3s;
+    text-decoration: none;
+    
+}
+.smp:hover{
+    background-color: transparent;
+    border:solid transparent 1px;
+    text-decoration: underline white;
+    border-radius: 40px;
+}
+.pro{
+    margin-top: 130px;
+    margin-left: 1000px;
+}
+.smpp{
+padding-right: 20px;
+}
+.smbc{
+    padding-right: 20px;
+}
+.sccb{
+    padding-right: 20px;
+}
+.svv{
+    padding-right: 20px;
+}
